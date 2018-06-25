@@ -1,0 +1,163 @@
+[{
+        "Latitude": 53.47265,
+        "Longitude": -2.29901,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 0,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47263,
+        "Longitude": -2.298965,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 35000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.4726,
+        "Longitude": -2.29896,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 45000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47259,
+        "Longitude": -2.29898,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 48000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47261,
+        "Longitude": -2.29893,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 53000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47263,
+        "Longitude": -2.2989,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 59000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47262,
+        "Longitude": -2.29894,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 65000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47261,
+        "Longitude": -2.29898,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 70000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.4726,
+        "Longitude": -2.29901,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 74000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47262, 
+        "Longitude": -2.29909,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 90000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47263, 
+        "Longitude": -2.29913,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 100000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47264, 
+        "Longitude": -2.29916,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 112000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47266, 
+        "Longitude": -2.29917,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 118000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47267, 
+        "Longitude": -2.29913,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 128000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47269, 
+        "Longitude": -2.29910,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 137000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47269, 
+        "Longitude": -2.29907,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 177000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47270, 
+        "Longitude": -2.29909,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 190000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47272, 
+        "Longitude": -2.2991,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 193000,
+        "Provider": "undefined"
+    }
+]
