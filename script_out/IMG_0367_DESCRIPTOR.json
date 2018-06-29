@@ -1,0 +1,10 @@
+{
+    "recordingID": "IMG_0367",
+    "startTime": "12:12:59.52000",
+    "startTimeMs": 43979520,
+    "duration": "00:03:37.72000",
+    "durationMs": 217720,
+    "videoFilename": "parsing/IMG_0367.mp4",
+    "orientationFilename": "samples/script_out/IMG_0367_ORIENT.json",
+    "locationFilename": "samples/script_out/IMG_0367_LOC.json"
+}

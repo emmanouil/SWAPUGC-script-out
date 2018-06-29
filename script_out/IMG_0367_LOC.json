@@ -1,0 +1,181 @@
+[{
+        "Latitude": 53.47268,
+        "Longitude": -2.29901,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 0,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47266,
+        "Longitude": -2.29896,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 12000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47266,
+        "Longitude": -2.29894,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 30000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47266,
+        "Longitude": -2.29894,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 35000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47266,
+        "Longitude": -2.2989,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 42000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47267,
+        "Longitude": -2.2989,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 45000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47266,
+        "Longitude": -2.29893,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 67000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.472655,
+        "Longitude": -2.29896,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 70000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47265,
+        "Longitude": -2.29898,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 74000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47265,
+        "Longitude": -2.29899,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 77000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47265,
+        "Longitude": -2.29901,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 85000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47266,
+        "Longitude": -2.29901,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 90000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47268,
+        "Longitude": -2.29903,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 94000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47268,
+        "Longitude": -2.29905,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 99000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47267,
+        "Longitude": -2.29902,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 145000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47266,
+        "Longitude": -2.29899,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 150000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47266,
+        "Longitude": -2.29897,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 153000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47266,
+        "Longitude": -2.29896,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 160000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47265,
+        "Longitude": -2.29895,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 170000,
+        "Provider": "undefined"
+    },
+    {
+        "Latitude": 53.47267,
+        "Longitude": -2.29899,
+        "Altitude": 0.0,
+        "Accuracy": 0.0,
+        "LocalTimestamp": null,
+        "PresentationTime": 206000,
+        "Provider": "undefined"
+    }
+]
