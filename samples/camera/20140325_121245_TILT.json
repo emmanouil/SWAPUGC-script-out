@@ -1,0 +1,49 @@
+[{
+        "Tilt": 0.0,
+        "PresentationTime": 0
+    },
+    {
+        "Tilt": 3.0,
+        "PresentationTime": 26000
+    },
+    {
+        "Tilt": 4.0,
+        "PresentationTime": 33000
+    },
+    {
+        "Tilt": 2.0,
+        "PresentationTime": 44000
+    },
+    {
+        "Tilt": 4.0,
+        "PresentationTime": 52000
+    },
+    {
+        "Tilt": 1.0,
+        "PresentationTime": 60000
+    },
+    {
+        "Tilt": 4.0,
+        "PresentationTime": 64000
+    },
+    {
+        "Tilt": 3.0,
+        "PresentationTime": 77000
+    },
+    {
+        "Tilt": 1.0,
+        "PresentationTime": 80000
+    },
+    {
+        "Tilt": 0.0,
+        "PresentationTime": 100000
+    },
+    {
+        "Tilt": 3.0,
+        "PresentationTime": 108000
+    },
+    {
+        "Tilt": 1.0,
+        "PresentationTime": 118000
+    }
+]

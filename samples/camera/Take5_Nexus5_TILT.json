@@ -1,0 +1,25 @@
+[{
+        "Tilt": 10.0,
+        "PresentationTime": 0
+    },
+    {
+        "Tilt": 0.0,
+        "PresentationTime": 6000
+    },
+    {
+        "Tilt": 3.0,
+        "PresentationTime": 80000
+    },
+    {
+        "Tilt": 5.0,
+        "PresentationTime": 82000
+    },
+    {
+        "Tilt": 1.0,
+        "PresentationTime": 88000
+    },
+    {
+        "Tilt": 0.0,
+        "PresentationTime": 90000
+    }
+]

@@ -1,0 +1,73 @@
+[{
+        "Tilt": 0.0,
+        "PresentationTime": 0
+    },
+    {
+        "Tilt": 10.0,
+        "PresentationTime": 4000
+    },
+    {
+        "Tilt": 4.0,
+        "PresentationTime": 17000
+    },
+    {
+        "Tilt": 2.0,
+        "PresentationTime": 27000
+    },
+    {
+        "Tilt": 10.0,
+        "PresentationTime": 65000
+    },
+    {
+        "Tilt": 4.0,
+        "PresentationTime": 75000
+    },
+    {
+        "Tilt": 5.0,
+        "PresentationTime": 79000
+    },
+    {
+        "Tilt": 10.0,
+        "PresentationTime": 82000
+    },
+    {
+        "Tilt": 3.0,
+        "PresentationTime": 85000
+    },
+    {
+        "Tilt": 5.0,
+        "PresentationTime": 87000
+    },
+    {
+        "Tilt": 10.0,
+        "PresentationTime": 90000
+    },
+    {
+        "Tilt": 1.0,
+        "PresentationTime": 95000
+    },
+    {
+        "Tilt": 10.0,
+        "PresentationTime": 103000
+    },
+    {
+        "Tilt": 1.0,
+        "PresentationTime": 118000
+    },
+    {
+        "Tilt": 5.0,
+        "PresentationTime": 151000
+    },
+    {
+        "Tilt": 2.0,
+        "PresentationTime": 160000
+    },
+    {
+        "Tilt": 1.0,
+        "PresentationTime": 170000
+    },
+    {
+        "Tilt": 5.0,
+        "PresentationTime": 203000
+    }
+]

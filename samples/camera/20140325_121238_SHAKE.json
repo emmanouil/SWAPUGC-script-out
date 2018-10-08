@@ -1,0 +1,77 @@
+[{
+        "Shake": 5.0,
+        "PresentationTime": 0
+    },
+    {
+        "Shake": 2.0,
+        "PresentationTime": 13000
+    },
+    {
+        "Shake": 4.0,
+        "PresentationTime": 25000
+    },
+    {
+        "Shake": 1.0,
+        "PresentationTime": 35000
+    },
+    {
+        "Shake": 2.0,
+        "PresentationTime": 42000
+    },
+    {
+        "Shake": 3.0,
+        "PresentationTime": 45000
+    },
+    {
+        "Shake": 5.0,
+        "PresentationTime": 55000
+    },
+    {
+        "Shake": 2.0,
+        "PresentationTime": 60000
+    },
+    {
+        "Shake": 1.0,
+        "PresentationTime": 64000
+    },
+    {
+        "Shake": 2.0,
+        "PresentationTime": 90000
+    },
+    {
+        "Shake": 4.0,
+        "PresentationTime": 100000
+    },
+    {
+        "Shake": 2.0,
+        "PresentationTime": 120000
+    },
+    {
+        "Shake": 1.0,
+        "PresentationTime": 140000
+    },
+    {
+        "Shake": 5.0,
+        "PresentationTime": 150000
+    },
+    {
+        "Shake": 2.0,
+        "PresentationTime": 170000
+    },
+    {
+        "Shake": 1.0,
+        "PresentationTime": 185000
+    },
+    {
+        "Shake": 3.0,
+        "PresentationTime": 195000
+    },
+    {
+        "Shake": 1.0,
+        "PresentationTime": 210000
+    },
+    {
+        "Shake": 5.0,
+        "PresentationTime": 220000
+    }
+]
