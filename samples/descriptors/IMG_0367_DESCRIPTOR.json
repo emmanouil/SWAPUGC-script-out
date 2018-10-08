@@ -7,5 +7,7 @@
     "videoFilename": "parsing/IMG_0367.mp4",
     "orientationFilename": "samples/spatial/IMG_0367_ORIENT.json",
     "locationFilename": "samples/spatial/IMG_0367_LOC.json",
-    "imageQFilename": "samples/imageQ/IMG_0367_BLUR.json"
+    "imageQFilename": "samples/imageQ/IMG_0367_BLUR.json",
+    "shakeFilename": "samples/camera/IMG_0367_SHAKE.json",
+    "tiltFilename": "samples/camera/IMG_0367_TILT.json"
 }

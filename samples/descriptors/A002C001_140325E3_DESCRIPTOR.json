@@ -7,5 +7,7 @@
     "videoFilename": "parsing/A002C001_140325E3.webm",
     "orientationFilename": "samples/spatial/A002C001_140325E3_ORIENT.json",
     "locationFilename": "samples/spatial/A002C001_140325E3_LOC.json",
-    "imageQFilename": "samples/imageQ/A002C001_140325E3_BLUR.json"
+    "imageQFilename": "samples/imageQ/A002C001_140325E3_BLUR.json",
+    "shakeFilename": "samples/camera/A002C001_140325E3_SHAKE.json",
+    "tiltFilename": "samples/camera/A002C001_140325E3_TILT.json"
 }
