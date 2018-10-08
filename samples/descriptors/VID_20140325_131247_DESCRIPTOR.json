@@ -5,6 +5,7 @@
     "duration": "00:03:46.75000",
     "durationMs": 226750,
     "videoFilename": "parsing/VID_20140325_131247.mp4",
-    "orientationFilename": "samples/script_out/VID_20140325_131247_ORIENT.json",
-    "locationFilename": "samples/script_out/VID_20140325_131247_LOC.json"
+    "orientationFilename": "samples/spatial/VID_20140325_131247_ORIENT.json",
+    "locationFilename": "samples/spatial/VID_20140325_131247_LOC.json",
+    "imageQFilename": "samples/imageQ/VID_20140325_131247_BLUR.json"
 }

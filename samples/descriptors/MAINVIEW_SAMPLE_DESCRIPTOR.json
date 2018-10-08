@@ -5,6 +5,6 @@
     "duration": "00:34:14.40000",
     "durationMs": 2054400,
     "videoFilename": "parsing/A002C001_140325E3.webm",
-    "orientationFilename": "samples/script_out/A002C001_140325E3_ORIENT.json",
-    "locationFilename": "samples/script_out/A002C001_140325E3_LOC.json"
+    "orientationFilename": "samples/spatial/A002C001_140325E3_ORIENT.json",
+    "locationFilename": "samples/spatial/A002C001_140325E3_LOC.json"
 }

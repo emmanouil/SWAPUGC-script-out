@@ -1,0 +1,11 @@
+{
+    "recordingID": "20140325_131253",
+    "startTime": "12:12:55.31000",
+    "startTimeMs": 43975310,
+    "duration": "00:03:41.79000",
+    "durationMs": 221790,
+    "videoFilename": "parsing/20140325_131253.mp4",
+    "orientationFilename": "samples/spatial/20140325_131253_ORIENT.json",
+    "locationFilename": "samples/spatial/20140325_131253_LOC.json",
+    "imageQFilename": "samples/imageQ/20140325_131253_BLUR.json"
+}

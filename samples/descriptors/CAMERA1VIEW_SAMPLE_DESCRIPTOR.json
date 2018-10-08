@@ -5,6 +5,6 @@
     "duration": "00:03:46.17000",
     "durationMs": 226170,
     "videoFilename": "parsing/CAMERA1VIEW_SAMPLE.webm",
-    "orientationFilename": "samples/script_out/CAMERA1VIEW_SAMPLE_ORIENT.json",
-    "locationFilename": "samples/script_out/CAMERA1VIEW_SAMPLE_LOC.json"
+    "orientationFilename": "samples/spatial/CAMERA1VIEW_SAMPLE_ORIENT.json",
+    "locationFilename": "samples/spatial/CAMERA1VIEW_SAMPLE_LOC.json"
 }
