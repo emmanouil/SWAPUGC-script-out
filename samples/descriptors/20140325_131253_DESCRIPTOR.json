@@ -9,5 +9,6 @@
     "locationFilename": "samples/spatial/20140325_131253_LOC.json",
     "imageQFilename": "samples/imageQ/20140325_131253_BLUR.json",
     "shakeFilename": "samples/camera/20140325_131253_SHAKE.json",
-    "tiltFilename": "samples/camera/20140325_131253_TILT.json"
+    "tiltFilename": "samples/camera/20140325_131253_TILT.json",
+    "fovFilename": "samples/camera/20140325_131253_FOV.json"
 }
