@@ -1,0 +1,56 @@
+[{
+        "FoV": true,
+        "PresentationTime": 0,
+        "Type": "FOV"
+    },
+    {
+        "FoV": false,
+        "PresentationTime": 33,
+        "Type": "FOV"
+    },
+    {
+        "FoV": true,
+        "PresentationTime": 41,
+        "Type": "FOV"
+    },
+    {
+        "FoV": false,
+        "PresentationTime": 65,
+        "Type": "FOV"
+    },
+    {
+        "FoV": true,
+        "PresentationTime": 76,
+        "Type": "FOV"
+    },
+    {
+        "FoV": false,
+        "PresentationTime": 83,
+        "Type": "FOV"
+    },
+    {
+        "FoV": true,
+        "PresentationTime": 97,
+        "Type": "FOV"
+    },
+    {
+        "FoV": false,
+        "PresentationTime": 110,
+        "Type": "FOV"
+    },
+    {
+        "FoV": true,
+        "PresentationTime": 118,
+        "Type": "FOV"
+    },
+    {
+        "FoV": false,
+        "PresentationTime": 188,
+        "Type": "FOV"
+    },
+    {
+        "FoV": true,
+        "PresentationTime": 194,
+        "Type": "FOV"
+    }
+]

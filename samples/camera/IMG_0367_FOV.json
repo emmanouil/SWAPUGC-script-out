@@ -1,0 +1,26 @@
+[{
+        "FoV": true,
+        "PresentationTime": 0,
+        "Type": "FOV"
+    },
+    {
+        "FoV": false,
+        "PresentationTime": 48,
+        "Type": "FOV"
+    },
+    {
+        "FoV": true,
+        "PresentationTime": 53,
+        "Type": "FOV"
+    },
+    {
+        "FoV": false,
+        "PresentationTime": 67,
+        "Type": "FOV"
+    },
+    {
+        "FoV": true,
+        "PresentationTime": 74,
+        "Type": "FOV"
+    }
+]
