@@ -6,22 +6,22 @@
     },
     {
         "FoV": false,
-        "PresentationTime": 110,
+        "PresentationTime": 110000,
         "Type": "FOV"
     },
     {
         "FoV": true,
-        "PresentationTime": 115,
+        "PresentationTime": 115000,
         "Type": "FOV"
     },
     {
         "FoV": false,
-        "PresentationTime": 224,
+        "PresentationTime": 224000,
         "Type": "FOV"
     },
     {
         "FoV": true,
-        "PresentationTime": 230,
+        "PresentationTime": 230000,
         "Type": "FOV"
     }
 ]
